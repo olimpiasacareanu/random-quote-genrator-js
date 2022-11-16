@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(181, 232, 179);
+}
+
+.quote-generator{
+    width: 30%;
+    background-color: azure;
+    margin: 0 auto;
+    text-align: center;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+button{
+    border: none;
+    background-color: rgb(181, 232, 179);
+    padding: 10px;
+    border-radius: 10px;
+}
